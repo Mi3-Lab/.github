@@ -1,49 +1,84 @@
 # Mi³ Lab (UC Merced)
 
-🚀 **Mi³ Lab — Machine Intelligence, Interaction, and Imagination** — is a research lab at **University of California, Merced**.
+🚀 **Mi³ Lab — Machine Intelligence, Interaction, and Imagination** is a research lab at the **University of California, Merced**.
 
-> “How do we ascribe meaning to objects and actions in the open world to make safe, goal-aligned decisions?” :contentReference[oaicite:1]{index=1}
+Our mission is to develop intelligent systems that can understand the open world and make **safe, goal-aligned decisions** in complex environments.  
+We build research systems and experimental platforms for **autonomous vehicles, robotics, and human-interactive AI**.
 
-Our research develops **safer autonomous vehicles, robots, and human-interactive intelligent systems**, with a primary focus on **safe autonomous driving and intelligent transportation systems**. :contentReference[oaicite:2]{index=2}
-
-🌐 Website: https://mi3-lab.github.io/  
-📍 UC Merced (Merced, CA) :contentReference[oaicite:3]{index=3}
+🌐 Website: https://mi3-lab.github.io/
 
 ---
 
-## 🔬 Research focus
+## 🔬 Research Areas
 
-- Artificial Intelligence & Computer Vision :contentReference[oaicite:4]{index=4}
-- Multimodal Machine Learning & Robotics :contentReference[oaicite:5]{index=5}
-- Human-Computer / Human-Robot Interaction :contentReference[oaicite:6]{index=6}
-- Vision-Language Representations :contentReference[oaicite:7]{index=7}
-- Safety, Explainability & Trust :contentReference[oaicite:8]{index=8}
-- Adaptability & Generalization :contentReference[oaicite:9]{index=9}
+Our work explores several areas of artificial intelligence and intelligent systems, including:
 
----
-
-## 📦 Projects on this GitHub
-
-This organization hosts **research code, experimental systems, benchmarks, and supporting tools** produced by Mi³ Lab projects.
-
-| What you’ll find here | Typical contents |
-|---|---|
-| Research projects | Model training, evaluation, and baselines |
-| Benchmarks & challenges | Tasks, datasets, metrics, leaderboards code |
-| Robotics / planning systems | Perception + planning prototypes |
-| Utilities | Reusable tools, scripts, and infrastructure |
-
-For “who we are” (people, publications, highlights), use the website:
-https://mi3-lab.github.io/ :contentReference[oaicite:10]{index=10}
+- Artificial Intelligence
+- Computer Vision
+- Multimodal Machine Learning
+- Vision-Language Models
+- Robotics and Autonomous Systems
+- Human-Computer and Human-Robot Interaction
+- AI Safety, Explainability, and Trust
+- Adaptability and Generalization in AI systems
 
 ---
 
-## 🤝 Contributing / collaboration
+## 📦 Projects
 
-If you want to collaborate, please open an issue in the relevant repository (or start with a discussion if enabled).
+This GitHub organization hosts the **research software, prototypes, datasets, and experimental systems** developed by Mi³ Lab.
+
+Typical repositories include:
+
+| Category | Description |
+|--------|--------|
+| Research Projects | Implementations of research ideas and experimental models |
+| Autonomous Systems | Perception, planning, and decision-making for robotics and autonomous vehicles |
+| Vision-Language Systems | Multimodal reasoning and representation learning |
+| Data & Evaluation | Datasets, benchmarks, and evaluation pipelines |
+| Tools & Utilities | Supporting libraries, scripts, and infrastructure |
+
+---
+
+## 🧪 Research Software
+
+Many repositories in this organization contain:
+
+- Experimental implementations
+- Research prototypes
+- Model training and evaluation pipelines
+- Reproducibility artifacts for publications
+- Data processing and analysis tools
+
+Projects may evolve quickly as part of ongoing research.
+
+---
+
+## 👥 Team
+
+Mi³ Lab projects are developed through collaboration between **faculty, researchers, and students at UC Merced**, together with external collaborators.
+
+For information about the team, publications, and ongoing research:
+
+🌐 https://mi3-lab.github.io/
+
+---
+
+## 🤝 Collaboration
+
+We welcome collaboration from researchers and students interested in related topics.
+
+If you would like to contribute:
+
+- open an issue in the relevant repository
+- propose improvements or experiments
+- share ideas for collaboration
 
 ---
 
 ## 📫 Contact
 
-Email: **rossgreer@ucmerced.edu** :contentReference[oaicite:11]{index=11}
+University of California, Merced  
+Mi³ Lab — Machine Intelligence, Interaction, and Imagination  
+
+🌐 https://mi3-lab.github.io/
